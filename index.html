@@ -8,10 +8,50 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+     <link href="https://vjs.zencdn.net/7.10.2/video-js.css" rel="stylesheet" />
+
+    <title>We Are Not Alone 👽</title>
+
+    <style>
+		.container {
+		  height: 200px;
+		  position: relative;
+		  border: 3px solid green;
+		}
+
+		.vertical-center {
+		  margin: 0;
+		  position: absolute;
+		  top: 50%;
+		  -ms-transform: translateY(-50%);
+		  transform: translateY(-50%);
+		  text-align: center;
+		  width: 100%;
+		}
+	</style>
   </head>
-  <body>
-    <h1>Hello, world!</h1>
+  <body style="background-color: #000; margin: 0; padding: 0">
+
+  	<div class="vertical-center">
+  		<video
+		    id="my-video"
+		    class="video-js"
+		    controls
+		    preload="auto"
+		    width="100%"
+		    poster="https://resizing.flixster.com/nBoor_R2dkzWCacoAdnvBeAyPMo=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzMzMGVmOTYwLTMyOWYtNGExMy1hYjZhLWRhZWM4Njg4ZWJkOC5qcGc="
+		    data-setup="{}"
+		  >
+		    <source src="https://alienshavelanded-team-bucket.storage.fleek.co/The Phenomenon.webm" type="video/webm" />
+		    <p class="vjs-no-js">
+		      To view this video please enable JavaScript, and consider upgrading to a
+		      web browser that
+		      <a href="https://videojs.com/html5-video-support/" target="_blank"
+		        >supports HTML5 video</a
+		      >
+		    </p>
+		  </video>
+  	</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
