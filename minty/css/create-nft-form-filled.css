@@ -1,0 +1,1878 @@
+/* screen - create-nft-form-filled */
+
+.create-nft-form-filled {
+  background-color: rgba(255,255,255,1.0);
+  height: 1179px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.create-nft-form-filled .btn-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 56px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 878px;
+  width: 343px;
+}
+.create-nft-form-filled .choose-a-collec-on-for-this-nft-xuN8Zs {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 221px;
+}
+.create-nft-form-filled .complete-this-f-n-the-next-page-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 51px;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 190px;
+  width: 555px;
+}
+.create-nft-form-filled .create-an-nft-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: 349px;
+}
+.create-nft-form-filled .create-nft-b4HSh9 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(44.90% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.61% - 42px);
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+.create-nft-form-filled .create-nft-lxF7LB {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(27.23% - 23px);
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+.create-nft-form-filled .description-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled .external-link-Bruqsu {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 92px;
+}
+.create-nft-form-filled .file-types-supp-max-size-100-mb-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 677px;
+  width: 322px;
+}
+.create-nft-form-filled .filenamegif-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled .form-field-Bruqsu {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+.create-nft-form-filled .form-field-with-label-JhsY7M {
+  --z-index: 0;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 343px;
+}
+.create-nft-form-filled .form-field-with-label-L0cjLb {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled .form-field-with-label-WSmxxQ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 343px;
+}
+.create-nft-form-filled .form-field-xCYEAj {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+.create-nft-form-filled .form-field-xuN8Zs {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+.create-nft-form-filled .group-53-EjHLjR {
+  --z-index: 1;
+  background-color: transparent;
+  height: 19px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.create-nft-form-filled .group-54-EjHLjR {
+  --z-index: 2;
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+.create-nft-form-filled .group-55-MXSlo5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.create-nft-form-filled .group-56-MXSlo5 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 17px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 84px;
+}
+.create-nft-form-filled .group-57-7uxSGa {
+  --z-index: 0;
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+.create-nft-form-filled .group-58-7uxSGa {
+  --z-index: 1;
+  background-color: transparent;
+  height: 18px;
+  left: 128px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 90px;
+}
+.create-nft-form-filled .group-59-lxF7LB {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25.00%;
+  left: 3.05%;
+  opacity: 1;
+  position: absolute;
+  top: 37.50%;
+  width: 17.03%;
+}
+.create-nft-form-filled .group-63-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 79px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 750px;
+  width: 343px;
+}
+.create-nft-form-filled .header-signed-in-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 88px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+.create-nft-form-filled .httpwwwlinkcom-6fs4c0 {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(43.55% - 11px);
+  white-space: nowrap;
+  width: 166px;
+}
+.create-nft-form-filled .if-you-do-not-s-ppears-in-later-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 94px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 770px;
+  width: 322px;
+}
+.create-nft-form-filled .koi-Xx4sp8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(43.55% - 11px);
+  white-space: nowrap;
+  width: 28px;
+}
+.create-nft-form-filled .my-nf-ts-lxF7LB {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(18.55% - 12px);
+  text-align: center;
+  white-space: nowrap;
+  width: 64px;
+}
+.create-nft-form-filled .path-54-EjHLjR {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-54-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+.create-nft-form-filled .path-55-p0O4eO {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-55-1@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+.create-nft-form-filled .path-56-p0O4eO {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-56-1@1x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  left: 8px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+.create-nft-form-filled .path-57-qixDwG {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-57-3@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 19px;
+}
+.create-nft-form-filled .path-58-qixDwG {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-58-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.create-nft-form-filled .path-59-xz2T1G {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-59-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: -0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+.create-nft-form-filled .path-60-xz2T1G {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-60-3@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 23px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 4px;
+}
+.create-nft-form-filled .path-61-xz2T1G {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-61-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 32px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 16px;
+}
+.create-nft-form-filled .path-62-xz2T1G {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/path-62-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 50px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+.create-nft-form-filled .path-63-xz2T1G {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/path-63-3@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 66px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+.create-nft-form-filled .path-64-xb1fcg {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-64-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+.create-nft-form-filled .path-65-xb1fcg {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-65-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 16px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+.create-nft-form-filled .path-66-xb1fcg {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-65-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 38px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+.create-nft-form-filled .path-67-xb1fcg {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/path-67-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 61px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+.create-nft-form-filled .path-68-xb1fcg {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/path-68-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 75px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+.create-nft-form-filled .path-69-lxF7LB {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled .path-71-L0cjLb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-71-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(33.09% - 4px);
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 20px;
+  width: 15px;
+}
+.create-nft-form-filled .rectangle-16-C61RwL {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 904px;
+  left: 210px;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  width: 860px;
+}
+.create-nft-form-filled .rectangle-36-b4HSh9 {
+  --z-index: 0;
+  background: linear-gradient(180deg, #f8d12f 0%, #f0b90b 100%);
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled .rectangle-37-6fs4c0 {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled .rectangle-37-C61RwL {
+  --z-index: 4;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 130px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 501px;
+  width: 343px;
+}
+.create-nft-form-filled .rectangle-37-HzgECX {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled .rectangle-37-Xx4sp8 {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled .rectangle-80-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/rectangle-80-1@1x.png);
+  background-size: 100% 100%;
+  height: 71px;
+  left: 288px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 766px;
+  width: 358px;
+}
+.create-nft-form-filled .repeat-grid-1-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 179px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 280px;
+  width: 343px;
+}
+.create-nft-form-filled .replace-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(240,185,11,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled .screen-shot-202-02-at-45837-pm-lxF7LB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/screen-shot-2021-04-02-at-4-58-37-pm-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 3px;
+  height: calc(100.00% - 42px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 39px;
+  top: 21px;
+  width: 46px;
+}
+.create-nft-form-filled .sed-ut-perspici-m-quia-voluptas-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 103px;
+  left: 317px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 512px;
+  width: 302px;
+}
+.create-nft-form-filled .this-descriptio-nf-ts-info-page-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  width: 322px;
+}
+.create-nft-form-filled .this-link-will-about-your-nft-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 399px;
+  width: 322px;
+}
+.create-nft-form-filled .title-of-your-nft-xCYEAj {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 115px;
+}
+.create-nft-form-filled .uncategorized-HzgECX {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(42,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(43.55% - 11px);
+  white-space: nowrap;
+  width: 118px;
+}
+.create-nft-form-filled .upload-asset-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 648px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled .x02-mrdmCX {
+  --z-index: 0;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.create-nft-form-filled .x0x1xq15123-lxF7LB {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(8.06% - 8px);
+  text-align: center;
+  white-space: nowrap;
+  width: 94px;
+}
+.create-nft-form-filled .x12-mrdmCX {
+  --z-index: 1;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 343px;
+}
+/* screen - create-nft-form-filled-1 */
+
+.create-nft-form-filled-1 {
+  background-color: rgba(255,255,255,1.0);
+  height: 1179px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.create-nft-form-filled-1 .btn-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 56px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 878px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .choose-a-collec-on-for-this-nft-xuN8Zs {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 221px;
+}
+.create-nft-form-filled-1 .complete-this-f-n-the-next-page-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 51px;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 190px;
+  width: 555px;
+}
+.create-nft-form-filled-1 .create-a-new-collection-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(240,185,11,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 317px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 900px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled-1 .create-an-nft-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: 349px;
+}
+.create-nft-form-filled-1 .create-nft-b4HSh9 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(44.90% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.61% - 42px);
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+.create-nft-form-filled-1 .create-nft-lxF7LB {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(27.23% - 23px);
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+.create-nft-form-filled-1 .description-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled-1 .external-link-TaVTVi {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 92px;
+}
+.create-nft-form-filled-1 .file-types-supp-max-size-100-mb-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 677px;
+  width: 322px;
+}
+.create-nft-form-filled-1 .filenamegif-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled-1 .form-field-KY9avD {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .form-field-TaVTVi {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .form-field-with-label-L0cjLb {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .form-field-with-label-hTnGo5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .form-field-with-label-qrqW1z {
+  --z-index: 0;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .form-field-xuN8Zs {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .group-53-EjHLjR {
+  --z-index: 1;
+  background-color: transparent;
+  height: 19px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.create-nft-form-filled-1 .group-54-EjHLjR {
+  --z-index: 2;
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+.create-nft-form-filled-1 .group-55-MXSlo5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.create-nft-form-filled-1 .group-56-MXSlo5 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 17px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 84px;
+}
+.create-nft-form-filled-1 .group-57-7uxSGa {
+  --z-index: 0;
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+.create-nft-form-filled-1 .group-58-7uxSGa {
+  --z-index: 1;
+  background-color: transparent;
+  height: 18px;
+  left: 128px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 90px;
+}
+.create-nft-form-filled-1 .group-59-lxF7LB {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25.00%;
+  left: 3.05%;
+  opacity: 1;
+  position: absolute;
+  top: 37.50%;
+  width: 17.03%;
+}
+.create-nft-form-filled-1 .group-63-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  height: 79px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 750px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .header-signed-in-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 88px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+.create-nft-form-filled-1 .httpwwwlinkcom-Q1QQWx {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(43.55% - 11px);
+  white-space: nowrap;
+  width: 166px;
+}
+.create-nft-form-filled-1 .if-you-do-not-s-ppears-in-later-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 94px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 770px;
+  width: 322px;
+}
+.create-nft-form-filled-1 .koi-zlrU8r {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(43.55% - 11px);
+  white-space: nowrap;
+  width: 28px;
+}
+.create-nft-form-filled-1 .my-nf-ts-lxF7LB {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(18.55% - 12px);
+  text-align: center;
+  white-space: nowrap;
+  width: 64px;
+}
+.create-nft-form-filled-1 .path-54-EjHLjR {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-54-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+.create-nft-form-filled-1 .path-55-p0O4eO {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-55-1@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+.create-nft-form-filled-1 .path-56-p0O4eO {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-56-1@1x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  left: 8px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+.create-nft-form-filled-1 .path-57-qixDwG {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-57-3@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 19px;
+}
+.create-nft-form-filled-1 .path-58-qixDwG {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-58-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.create-nft-form-filled-1 .path-59-xz2T1G {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-59-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: -0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+.create-nft-form-filled-1 .path-60-xz2T1G {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-60-3@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 23px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 4px;
+}
+.create-nft-form-filled-1 .path-61-xz2T1G {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-61-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 32px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 16px;
+}
+.create-nft-form-filled-1 .path-62-xz2T1G {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/path-62-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 50px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+.create-nft-form-filled-1 .path-63-xz2T1G {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/path-63-3@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 66px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+.create-nft-form-filled-1 .path-64-xb1fcg {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-64-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+.create-nft-form-filled-1 .path-65-xb1fcg {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-65-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 16px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+.create-nft-form-filled-1 .path-66-xb1fcg {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-65-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 38px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+.create-nft-form-filled-1 .path-67-xb1fcg {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/path-67-1@1x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 61px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+.create-nft-form-filled-1 .path-68-xb1fcg {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/path-68-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 75px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+.create-nft-form-filled-1 .path-69-lxF7LB {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .path-71-L0cjLb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-71-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(33.09% - 4px);
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 20px;
+  width: 15px;
+}
+.create-nft-form-filled-1 .rectangle-16-C61RwL {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 904px;
+  left: 210px;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  width: 860px;
+}
+.create-nft-form-filled-1 .rectangle-36-b4HSh9 {
+  --z-index: 0;
+  background: linear-gradient(180deg, #f8d12f 0%, #f0b90b 100%);
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .rectangle-37-C61RwL {
+  --z-index: 5;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 130px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 501px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .rectangle-37-HzgECX {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .rectangle-37-Q1QQWx {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .rectangle-37-zlrU8r {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(42,47,54,0.302);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.create-nft-form-filled-1 .rectangle-80-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-80-2@1x.png);
+  background-size: 100% 100%;
+  height: 183px;
+  left: 288px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 766px;
+  width: 358px;
+}
+.create-nft-form-filled-1 .rectangle-82-C61RwL {
+  --z-index: 16;
+  background-color: rgba(112,122,138,0.063);
+  height: 61px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 824px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .repeat-grid-1-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 179px;
+  left: 296px;
+  opacity: 1;
+  position: absolute;
+  top: 280px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .replace-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(240,185,11,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled-1 .screen-shot-202-02-at-45837-pm-lxF7LB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/screen-shot-2021-04-02-at-4-58-37-pm-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 3px;
+  height: calc(100.00% - 42px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 39px;
+  top: 21px;
+  width: 46px;
+}
+.create-nft-form-filled-1 .sed-ut-perspici-m-quia-voluptas-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 103px;
+  left: 317px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 512px;
+  width: 302px;
+}
+.create-nft-form-filled-1 .this-descriptio-nf-ts-info-page-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  width: 322px;
+}
+.create-nft-form-filled-1 .this-link-will-about-your-nft-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 399px;
+  width: 322px;
+}
+.create-nft-form-filled-1 .title-of-your-nft-KY9avD {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 115px;
+}
+.create-nft-form-filled-1 .uncategorized-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  color: rgba(43,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 317px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 844px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled-1 .uncategorized-HzgECX {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(42,47,54,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(43.55% - 11px);
+  white-space: nowrap;
+  width: 118px;
+}
+.create-nft-form-filled-1 .upload-asset-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 648px;
+  white-space: nowrap;
+  width: auto;
+}
+.create-nft-form-filled-1 .x03-mrdmCX {
+  --z-index: 0;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.create-nft-form-filled-1 .x0x1xq15123-lxF7LB {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(8.06% - 8px);
+  text-align: center;
+  white-space: nowrap;
+  width: 94px;
+}
+.create-nft-form-filled-1 .x14-mrdmCX {
+  --z-index: 1;
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 343px;
+}

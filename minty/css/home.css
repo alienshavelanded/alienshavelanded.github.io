@@ -1,0 +1,1538 @@
+/* screen - home */
+
+.home {
+  background-color: rgba(255,255,255,1.0);
+  height: 1480px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.home .artwork-digital-llpaper-preview-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/artwork-digital-art-dark-cthulhu-red-eyes-hd-wallpaper-preview-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 440px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home .btn-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  height: 56px;
+  left: 139px;
+  opacity: 1;
+  position: absolute;
+  top: 427px;
+  width: 327px;
+}
+.home .connect-wallet-uBZf7U {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(42.24% - 9px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.92% - 54px);
+  text-align: center;
+  white-space: nowrap;
+  width: 112px;
+}
+.home .contentnikeblastoff-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/content-nike-blastoff-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 239px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 201px;
+}
+.home .create-an-nft-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(20.14% - 21px);
+  text-align: right;
+  white-space: nowrap;
+  width: 105px;
+}
+.home .create-an-nft-b4HSh9 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(44.90% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.55% - 52px);
+  text-align: center;
+  white-space: nowrap;
+  width: 104px;
+}
+.home .created-feb-12-2021-DL3xpg {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 331px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .created-jan-28-2021-wxhGGV {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .created-jan-8-2021-q3MFP4 {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .cyril-rolando-d-illustrations-3-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/cyril-rolando-digital-illustrations-3-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 39px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home .d5b9ecf04f9a404-59d857210dfe0bf-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/d5b9ecf04f9a4044c59d857210dfe0bf-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 1041px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home .digital-art-101-2-1024x569-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/digital-art-101-2-1024x569-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 840px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 201px;
+}
+.home .digital-arts-in-al-age-1140x538-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/digital-arts-in-a-digital-age-1140x538-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 840px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 201px;
+}
+.home .digitalartdirection-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/digital-art-direction-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 640px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home .e9a0d7ee-a1be-1-da-eeb7a9ce36e4-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/e9a0d7ee-a1be-11e8-85da-eeb7a9ce36e4-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 1041px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home .example-of-comp-gital-art-oct16-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/example-of-computer-illustration-digital-art-oct16-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 840px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 201px;
+}
+.home .freshly-minted-nf-ts-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 498px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .group-51-Up6zcy {
+  --z-index: 0;
+  background-color: transparent;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 234px;
+}
+.home .group-51-q2BeyX {
+  --z-index: 0;
+  background-color: transparent;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 234px;
+}
+.home .group-51-ynAtcP {
+  --z-index: 0;
+  background-color: transparent;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 234px;
+}
+.home .group-59-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-59-1@1x.png);
+  background-size: 100% 100%;
+  height: 25.00%;
+  left: 3.05%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37.50%;
+  width: 17.03%;
+}
+.home .group-60-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  height: 366px;
+  left: 905px;
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  width: 234px;
+}
+.home .group-61-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  height: 366px;
+  left: 775px;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 234px;
+}
+.home .group-62-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  height: 366px;
+  left: 645px;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  width: 234px;
+}
+.home .group-9-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: 39px;
+  top: calc(50.00% - 24px);
+  width: 160px;
+}
+.home .header-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  height: 88px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+.home .house-in-the-wo-ds-illustration-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/house-in-the-woods-illustration-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 39px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home .introtodigitalpainting-mobile-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/introtodigitalpainting-mobile-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 640px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home .jon-juarez-home-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/jon-juarez-home-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 640px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home .jonathan-foerst-tesy-the-artist-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/jonathan-foerster-vena-ii--courtesy-the-artist-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 440px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home .koi-power-illustration-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/koi-power-illustration-2@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 1041px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home .koi-power-illustration-DL3xpg {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/koi-power-illustration-1@1x.png);
+  background-size: 100% 100%;
+  height: 233px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home .lorem-ipsum-dol-eiusmod-tempor-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 59px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 334px;
+  width: 349px;
+}
+.home .lorem-ipsum-dol-sed-do-eiusmod-DL3xpg {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 269px;
+  width: 200px;
+}
+.home .lorem-ipsum-dol-sed-do-eiusmod-q3MFP4 {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  width: 200px;
+}
+.home .lorem-ipsum-dol-sed-do-eiusmod-wxhGGV {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  width: 200px;
+}
+.home .mr-xerty-feature-wxhGGV {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mr-xerty-feature-1@1x.png);
+  background-size: 100% 100%;
+  height: 233px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home .name-DL3xpg {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: 200px;
+}
+.home .name-q3MFP4 {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: 200px;
+}
+.home .name-wxhGGV {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: 200px;
+}
+.home .newswelja15752-1586443553-q3MFP4 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/newswelja15752-1586443553-1@1x.png);
+  background-size: 100% 100%;
+  height: 233px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home .papersco-bb02-d-en-40-wallpaper-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/papers-co-bb02-digital-art-color-circle-illustration-art-3d-gree-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 239px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 201px;
+}
+.home .path-70-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-16-DL3xpg {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home .rectangle-16-q3MFP4 {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home .rectangle-16-wxhGGV {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home .rectangle-36-b4HSh9 {
+  --z-index: 0;
+  background: linear-gradient(180deg, #f8d12f 0%, #f0b90b 100%);
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-36-uBZf7U {
+  --z-index: 0;
+  background: linear-gradient(180deg, #f8d12f 0%, #f0b90b 100%);
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-74-C61RwL {
+  --z-index: 0;
+  background-color: rgba(11,14,17,1.0);
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1384px;
+  width: 1280px;
+}
+.home .the-easiest-way-to-mint-nf-ts-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 600;
+  height: 132px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 186px;
+  width: 403px;
+}
+.home .x12919-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/12919@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 39px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home .x2017-2021-binan-rights-reserved-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 490px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1419px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .x4-fantasy-girl-t-by-sakimichan-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/4-fantasy-girl-digital-art-by-sakimichan-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 440px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home .x960x0-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/960x0-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 239px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 201px;
+}
+/* screen - home-hover-example */
+
+.home-hover-example {
+  background-color: rgba(255,255,255,1.0);
+  height: 1480px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.home-hover-example .artwork-digital-llpaper-preview-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/artwork-digital-art-dark-cthulhu-red-eyes-hd-wallpaper-preview-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 440px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home-hover-example .btn-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  height: 56px;
+  left: 139px;
+  opacity: 1;
+  position: absolute;
+  top: 427px;
+  width: 327px;
+}
+.home-hover-example .connect-wallet-uBZf7U {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(42.24% - 9px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.92% - 54px);
+  text-align: center;
+  white-space: nowrap;
+  width: 112px;
+}
+.home-hover-example .contentnikeblastoff-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/content-nike-blastoff-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 239px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 201px;
+}
+.home-hover-example .create-an-nft-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(20.14% - 21px);
+  text-align: right;
+  white-space: nowrap;
+  width: 105px;
+}
+.home-hover-example .create-nft-b4HSh9 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(44.90% - 10px);
+  color: rgba(30,32,38,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.59% - 42px);
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+.home-hover-example .created-feb-12-2021-DL3xpg {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 331px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-hover-example .created-jan-28-2021-wxhGGV {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-hover-example .created-jan-8-2021-q3MFP4 {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-hover-example .cyril-rolando-d-illustrations-3-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/cyril-rolando-digital-illustrations-3-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 39px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home-hover-example .d5b9ecf04f9a404-59d857210dfe0bf-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/d5b9ecf04f9a4044c59d857210dfe0bf-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 1041px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home-hover-example .digital-art-101-2-1024x569-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/digital-art-101-2-1024x569-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 840px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 201px;
+}
+.home-hover-example .digital-arts-in-al-age-1140x538-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/digital-arts-in-a-digital-age-1140x538-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 840px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 201px;
+}
+.home-hover-example .digitalartdirection-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/digital-art-direction-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 640px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home-hover-example .e9a0d7ee-a1be-1-da-eeb7a9ce36e4-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/e9a0d7ee-a1be-11e8-85da-eeb7a9ce36e4-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 1041px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 745px;
+  width: 200px;
+}
+.home-hover-example .example-of-comp-gital-art-oct16-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/example-of-computer-illustration-digital-art-oct16-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 840px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 201px;
+}
+.home-hover-example .freshly-minted-nf-ts-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 498px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-hover-example .group-51-Up6zcy {
+  --z-index: 0;
+  background-color: transparent;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .group-51-q2BeyX {
+  --z-index: 0;
+  background-color: transparent;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .group-51-ynAtcP {
+  --z-index: 0;
+  background-color: transparent;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .group-59-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-59-1@1x.png);
+  background-size: 100% 100%;
+  height: 25.00%;
+  left: 3.05%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37.50%;
+  width: 17.03%;
+}
+.home-hover-example .group-60-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  height: 366px;
+  left: 905px;
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  width: 234px;
+}
+.home-hover-example .group-61-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  height: 366px;
+  left: 775px;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 234px;
+}
+.home-hover-example .group-62-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  height: 366px;
+  left: 645px;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  width: 234px;
+}
+.home-hover-example .group-9-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: 39px;
+  top: calc(50.00% - 24px);
+  width: 160px;
+}
+.home-hover-example .header-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 88px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+.home-hover-example .house-in-the-wo-ds-illustration-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/house-in-the-woods-illustration-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 39px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home-hover-example .introtodigitalpainting-mobile-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/introtodigitalpainting-mobile-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 640px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home-hover-example .jon-juarez-home-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/jon-juarez-home-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 640px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home-hover-example .jonathan-foerst-tesy-the-artist-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/jonathan-foerster-vena-ii--courtesy-the-artist-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 440px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 200px;
+}
+.home-hover-example .koi-power-illustration-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/koi-power-illustration-2@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 1041px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home-hover-example .koi-power-illustration-DL3xpg {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/koi-power-illustration-1@1x.png);
+  background-size: 100% 100%;
+  height: 233px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .lorem-ipsum-dol-eiusmod-tempor-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 59px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 334px;
+  width: 349px;
+}
+.home-hover-example .lorem-ipsum-dol-sed-do-eiusmod-DL3xpg {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 269px;
+  width: 200px;
+}
+.home-hover-example .lorem-ipsum-dol-sed-do-eiusmod-q3MFP4 {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  width: 200px;
+}
+.home-hover-example .lorem-ipsum-dol-sed-do-eiusmod-wxhGGV {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(71,77,87,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  width: 200px;
+}
+.home-hover-example .mr-xerty-feature-wxhGGV {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mr-xerty-feature-1@1x.png);
+  background-size: 100% 100%;
+  height: 233px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .name-DL3xpg {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: 200px;
+}
+.home-hover-example .name-q3MFP4 {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: 200px;
+}
+.home-hover-example .name-wxhGGV {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: 200px;
+}
+.home-hover-example .newswelja15752-1586443553-q3MFP4 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/newswelja15752-1586443553-1@1x.png);
+  background-size: 100% 100%;
+  height: 233px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .papersco-bb02-d-en-40-wallpaper-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/papers-co-bb02-digital-art-color-circle-illustration-art-3d-gree-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 239px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 201px;
+}
+.home-hover-example .path-70-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home-hover-example .rectangle-16-DL3xpg {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .rectangle-16-q3MFP4 {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .rectangle-16-wxhGGV {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 366px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+.home-hover-example .rectangle-36-b4HSh9 {
+  --z-index: 0;
+  background: linear-gradient(180deg, #f8d12f 0%, #f0b90b 100%);
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home-hover-example .rectangle-36-uBZf7U {
+  --z-index: 0;
+  background: linear-gradient(180deg, #f8d12f 0%, #f0b90b 100%);
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home-hover-example .rectangle-74-C61RwL {
+  --z-index: 1;
+  background-color: rgba(11,14,17,1.0);
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1384px;
+  width: 1280px;
+}
+.home-hover-example .the-easiest-way-to-mint-nf-ts-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(30,35,41,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 600;
+  height: 132px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 186px;
+  width: 403px;
+}
+.home-hover-example .x12919-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  background-image: url(../img/12919-1@1x.png);
+  background-size: 100% 100%;
+  height: 220px;
+  left: 29px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 735px;
+  width: 220px;
+}
+.home-hover-example .x2017-2021-binan-rights-reserved-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(112,122,138,1.0);
+  font-family: 'IBM Plex Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 490px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1419px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-hover-example .x4-fantasy-girl-t-by-sakimichan-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/4-fantasy-girl-digital-art-by-sakimichan-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 440px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 945px;
+  width: 200px;
+}
+.home-hover-example .x960x0-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/960x0-1@1x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 239px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1145px;
+  width: 201px;
+}

@@ -1,0 +1,946 @@
+/* screen - my-nfts */
+
+.my-nfts {
+  background-color: var(--white);
+  height: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.my-nfts .create-nft-lxF7LB {
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(27.23% - 23px);
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+.my-nfts .created-feb-12-2021-ZFkoC6 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 540px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .created-jan-2-2021-rGyxDJ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .created-jan-28-2021-gxN9Ek {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .created-jan-8-2021-4P2xFx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .flex-col-D2dTFp {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -607px;
+  margin-left: 22px;
+  min-height: 1226px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .flex-col-WKDRfp {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -607px;
+  margin-left: 22px;
+  min-height: 1226px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .flex-col-j4Wsuz {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -607px;
+  margin-left: 22px;
+  min-height: 1226px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .flex-col-lhUOfT {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -607px;
+  min-height: 1226px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-105UdU {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 20px;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-CJzJxx {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-DLMaL3 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 20px;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-YRx2sf {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 20px;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-a5ZQT3 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-j4grwf {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 20px;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-kwsNxx {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-51-z2GmzF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 603px;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .group-53-EjHLjR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 9px;
+  min-width: 13px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.my-nfts .group-54-EjHLjR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 13px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+.my-nfts .group-55-MXSlo5 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 22px;
+  position: relative;
+  width: 22px;
+}
+.my-nfts .group-56-MXSlo5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 17px;
+  justify-content: flex-start;
+  margin-left: 11px;
+  margin-top: 0.16px;
+  min-width: 84px;
+  position: relative;
+  width: auto;
+}
+.my-nfts .group-57-7uxSGa {
+  align-items: center;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 22px;
+  justify-content: flex-start;
+  margin-bottom: -0.0px;
+  min-width: 117px;
+  position: relative;
+  width: auto;
+}
+.my-nfts .group-58-7uxSGa {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 18px;
+  justify-content: flex-end;
+  margin-left: 10px;
+  margin-top: 0.16px;
+  min-width: 90px;
+  position: relative;
+  width: auto;
+}
+.my-nfts .group-59-lxF7LB {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 25.00%;
+  justify-content: flex-start;
+  left: 3.05%;
+  min-width: 17.03%;
+  position: absolute;
+  top: 37.50%;
+  width: auto;
+}
+.my-nfts .header-signed-in-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 88px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+.my-nfts .koi-power-illustration-4bjatz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .koi-power-illustration-ZFcLkE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .koi-power-illustration-ZFkoC6 {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 386px;
+}
+.my-nfts .koi-power-illustration-ZGeoCx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-4P2xFx {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-7ty6si {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-CA1ajN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-Y6qSvL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-ZFkoC6 {
+  background-color: transparent;
+  height: 103px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 441px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-gxN9Ek {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-hzWHI0 {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-qF10uE {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-rGyxDJ {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-tuaC77 {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-v83JJ6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-nfts .lorem-ipsum-dol-sed-do-eiusmod-zr3oEz {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}
+.my-nfts .mr-xerty-feature-49PGa3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .mr-xerty-feature-VQ0sKE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .my-nf-ts-lxF7LB {
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(18.55% - 12px);
+  text-align: center;
+  white-space: nowrap;
+  width: 64px;
+}
+.my-nfts .name-49PGa3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-4bjatz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-MBcIkI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-VQ0sKE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-ZFcLkE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-ZFkoC6 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 392px;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-ZGeoCx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .name-rPaUon {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  margin-bottom: -30px;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 26px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.my-nfts .newswelja15752-1586443553-MBcIkI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .newswelja15752-1586443553-rPaUon {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  object-fit: cover;
+  position: relative;
+  width: 386px;
+}
+.my-nfts .nft-card-row-C61RwL {
+  background-color: transparent;
+  height: 631px;
+  left: 24px;
+  position: absolute;
+  top: 86px;
+  width: 1228px;
+}
+.my-nfts .overlap-group-49PGa3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 116px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .overlap-group-4bjatz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 116px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .overlap-group-ZGeoCx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 160px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .overlap-group-rPaUon {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 116px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .overlap-group1-MBcIkI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 160px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .overlap-group1-VQ0sKE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 160px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .overlap-group1-ZFcLkE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 160px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 328px;
+}
+.my-nfts .path-54-EjHLjR {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+.my-nfts .path-55-p0O4eO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 11px;
+  margin-top: 0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 5px;
+}
+.my-nfts .path-56-p0O4eO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 19px;
+  margin-left: 3px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 5px;
+}
+.my-nfts .path-57-qixDwG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-left: 0.01px;
+  margin-top: 3px;
+  object-fit: cover;
+  position: relative;
+  width: 19px;
+}
+.my-nfts .path-58-qixDwG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  object-fit: cover;
+  position: relative;
+  width: 11px;
+}
+.my-nfts .path-59-xz2T1G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 0px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 19px;
+}
+.my-nfts .path-60-xz2T1G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 4px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 4px;
+}
+.my-nfts .path-61-xz2T1G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 4px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 16px;
+}
+.my-nfts .path-62-xz2T1G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 2px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 15px;
+}
+.my-nfts .path-63-xz2T1G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 1px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 18px;
+}
+.my-nfts .path-64-xb1fcg {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-top: 0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 15px;
+}
+.my-nfts .path-65-xb1fcg {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 18px;
+  margin-left: 0px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 19px;
+}
+.my-nfts .path-66-xb1fcg {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 18px;
+  margin-left: 2px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 19px;
+}
+.my-nfts .path-67-xb1fcg {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 3px;
+  margin-top: 0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 12px;
+}
+.my-nfts .path-68-xb1fcg {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 18px;
+  margin-left: 2px;
+  margin-top: -0.0px;
+  object-fit: cover;
+  position: relative;
+  width: 15px;
+}
+.my-nfts .rectangle-16-ZFkoC6 {
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.161);;
+  height: 603px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 386px;
+}
+.my-nfts .repeat-grid-4-SzQzOz {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 631px;
+  justify-content: flex-end;
+  left: calc(50.00% - 614px);
+  min-width: 1228px;
+  position: relative;
+  top: calc(50.00% - 316px);
+  width: auto;
+}
+.my-nfts .screen-shot-202-02-at-45837-pm-lxF7LB {
+  background-color: transparent;
+  border-radius: 3px;
+  height: calc(100.00% - 42px);
+  object-fit: cover;
+  position: absolute;
+  right: 39px;
+  top: 21px;
+  width: 46px;
+}
+.my-nfts .x0x1xq15123-lxF7LB {
+  background-color: transparent;
+  bottom: calc(46.95% - 10px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(8.06% - 8px);
+  text-align: center;
+  white-space: nowrap;
+  width: 94px;
+}
